@@ -35,3 +35,14 @@ class KategoriControllers extends Controller
 Tampilan seperti di bawah:
 
 ![image](https://user-images.githubusercontent.com/109930488/182098450-84f65939-4877-4ab1-9523-c6499213957e.png)
+
+Lalu Membuat folder kategoricontroller dibawah ini:
+
+*Saran menggunakan fitur terminal diVSCODE
+```
+php artisan make:controller kategoricontroller
+```
+hasilnya:
+
+![image](https://user-images.githubusercontent.com/109930488/182105457-64a440dc-f792-48d7-875c-84d7025eef54.png)
+
