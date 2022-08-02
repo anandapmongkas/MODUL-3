@@ -92,6 +92,8 @@ http://127.0.0.1:8000
 
 ![image](https://user-images.githubusercontent.com/109930488/182266410-beb34792-42d2-48a5-aea2-f2c4a109de5b.png)
 
-Jika memanggil Route yang kita buat hasil dari search tambahkan dengan nama route sebagai berikut:
+Jika memanggil Route yang kita buat hasil dari search tambahkan dengan nama route sebagai berikut dan Hasilnya:
 
 ![image](https://user-images.githubusercontent.com/109930488/182266700-ce888410-17aa-4bcd-9812-0fecb6bcacd5.png)
+
+Selesailah project Modul 3 tersebut
